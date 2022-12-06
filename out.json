@@ -1,24 +1,46 @@
 {
     "Height": 50,
     "Width": 50,
-    "CharX": 35,
-    "CharY": 12,
+    "CharX": 19,
+    "CharY": 27,
+    "ExitX": 46,
+    "ExitY": 8,
     "Enemies": [
         {
-            "X": 32,
-            "Y": 20
+            "X": 29,
+            "Y": 13
         },
         {
-            "X": 24,
-            "Y": 30
+            "X": 12,
+            "Y": 41
         },
         {
-            "X": 40,
-            "Y": 46
+            "X": 31,
+            "Y": 3
         },
         {
-            "X": 20,
-            "Y": 2
+            "X": 31,
+            "Y": 26
+        },
+        {
+            "X": 17,
+            "Y": 16
+        },
+        {
+            "X": 47,
+            "Y": 11
+        },
+        {
+            "X": 2,
+            "Y": 42
+        },
+        {
+            "X": 23,
+            "Y": 36
+        },
+        {
+            "X": 33,
+            "Y": 38
         }
     ],
     "Rows": [
@@ -26,15 +48,7 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 20
-                },
-                {
-                    "Type": "wall",
-                    "Count": 11
-                },
-                {
-                    "Type": "stone",
-                    "Count": 19
+                    "Count": 50
                 }
             ]
         },
@@ -42,7 +56,39 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 20
+                    "Count": 50
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 28
+                },
+                {
+                    "Type": "wall",
+                    "Count": 6
+                },
+                {
+                    "Type": "stone",
+                    "Count": 16
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 28
                 },
                 {
                     "Type": "wall",
@@ -50,15 +96,91 @@
                 },
                 {
                     "Type": "floor",
-                    "Count": 9
+                    "Count": 4
                 },
                 {
                     "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 16
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 25
+                },
+                {
+                    "Type": "wall",
+                    "Count": 4
+                },
+                {
+                    "Type": "floor",
+                    "Count": 4
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 10
+                },
+                {
+                    "Type": "wall",
+                    "Count": 6
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 25
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
                     "Count": 7
                 },
                 {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
                     "Type": "stone",
-                    "Count": 13
+                    "Count": 10
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 4
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
                 }
             ]
         },
@@ -66,7 +188,7 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 20
+                    "Count": 25
                 },
                 {
                     "Type": "wall",
@@ -74,7 +196,15 @@
                 },
                 {
                     "Type": "floor",
-                    "Count": 15
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 2
+                },
+                {
+                    "Type": "floor",
+                    "Count": 4
                 },
                 {
                     "Type": "wall",
@@ -82,7 +212,23 @@
                 },
                 {
                     "Type": "stone",
-                    "Count": 13
+                    "Count": 10
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 4
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
                 }
             ]
         },
@@ -90,7 +236,7 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 20
+                    "Count": 25
                 },
                 {
                     "Type": "wall",
@@ -98,55 +244,23 @@
                 },
                 {
                     "Type": "floor",
-                    "Count": 9
-                },
-                {
-                    "Type": "wall",
-                    "Count": 5
-                },
-                {
-                    "Type": "floor",
                     "Count": 1
                 },
                 {
                     "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 20
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 9
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
                     "Count": 3
                 },
                 {
-                    "Type": "wall",
+                    "Type": "floor",
                     "Count": 1
                 },
                 {
+                    "Type": "wall",
+                    "Count": 14
+                },
+                {
                     "Type": "floor",
-                    "Count": 1
+                    "Count": 4
                 },
                 {
                     "Type": "wall",
@@ -154,7 +268,7 @@
                 },
                 {
                     "Type": "stone",
-                    "Count": 13
+                    "Count": 1
                 }
             ]
         },
@@ -162,7 +276,7 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 20
+                    "Count": 25
                 },
                 {
                     "Type": "wall",
@@ -170,23 +284,103 @@
                 },
                 {
                     "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 14
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 25
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
                     "Count": 9
                 },
                 {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 3
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
                     "Type": "floor",
-                    "Count": 1
+                    "Count": 4
                 },
                 {
                     "Type": "wall",
@@ -194,7 +388,7 @@
                 },
                 {
                     "Type": "stone",
-                    "Count": 13
+                    "Count": 1
                 }
             ]
         },
@@ -202,23 +396,7 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 20
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 9
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 3
+                    "Count": 25
                 },
                 {
                     "Type": "wall",
@@ -234,7 +412,55 @@
                 },
                 {
                     "Type": "stone",
-                    "Count": 13
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 7
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 4
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
                 }
             ]
         },
@@ -242,7 +468,79 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 20
+                    "Count": 25
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 7
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 4
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 24
                 },
                 {
                     "Type": "wall",
@@ -254,11 +552,139 @@
                 },
                 {
                     "Type": "wall",
-                    "Count": 8
+                    "Count": 3
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
                 },
                 {
                     "Type": "stone",
-                    "Count": 3
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 7
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 4
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "wall",
+                    "Count": 9
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 7
+                },
+                {
+                    "Type": "wall",
+                    "Count": 6
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 7
+                },
+                {
+                    "Type": "wall",
+                    "Count": 4
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
                 },
                 {
                     "Type": "wall",
@@ -275,6 +701,10 @@
                 {
                     "Type": "stone",
                     "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
                 }
             ]
         },
@@ -282,7 +712,23 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 21
+                    "Count": 13
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 17
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
                 },
                 {
                     "Type": "wall",
@@ -291,6 +737,1454 @@
                 {
                     "Type": "floor",
                     "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 7
+                },
+                {
+                    "Type": "wall",
+                    "Count": 4
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 7
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "wall",
+                    "Count": 6
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 2
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 18
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 3
+                },
+                {
+                    "Type": "wall",
+                    "Count": 2
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 3
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 18
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 4
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 18
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 4
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 18
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 4
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 18
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 4
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 16
+                },
+                {
+                    "Type": "wall",
+                    "Count": 3
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 4
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 16
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 3
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 4
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 16
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 3
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 2
+                },
+                {
+                    "Type": "floor",
+                    "Count": 5
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 16
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 17
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 16
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 3
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 2
+                },
+                {
+                    "Type": "floor",
+                    "Count": 5
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 16
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 2
+                },
+                {
+                    "Type": "floor",
+                    "Count": 5
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 16
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 2
+                },
+                {
+                    "Type": "floor",
+                    "Count": 5
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 16
+                },
+                {
+                    "Type": "wall",
+                    "Count": 3
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 4
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 3
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 4
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 18
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 4
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 18
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 6
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 3
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 18
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 10
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 18
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 3
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 18
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 2
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 13
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "stone",
+                    "Count": 18
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 4
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 2
+                },
+                {
+                    "Type": "stone",
+                    "Count": 12
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "wall",
+                    "Count": 8
+                },
+                {
+                    "Type": "stone",
+                    "Count": 10
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 3
+                },
+                {
+                    "Type": "floor",
+                    "Count": 7
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 12
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "wall",
+                    "Count": 2
+                },
+                {
+                    "Type": "floor",
+                    "Count": 5
                 },
                 {
                     "Type": "wall",
@@ -313,398 +2207,126 @@
                     "Count": 1
                 },
                 {
+                    "Type": "floor",
+                    "Count": 16
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
                     "Type": "stone",
-                    "Count": 13
+                    "Count": 12
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
                 }
             ]
         },
         {
             "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 9
-                },
                 {
                     "Type": "wall",
                     "Count": 2
                 },
                 {
                     "Type": "floor",
+                    "Count": 5
+                },
+                {
+                    "Type": "wall",
                     "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 3
+                },
+                {
+                    "Type": "wall",
+                    "Count": 8
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
                 },
                 {
                     "Type": "wall",
                     "Count": 3
                 },
                 {
+                    "Type": "floor",
+                    "Count": 7
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
                     "Type": "stone",
-                    "Count": 11
+                    "Count": 12
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
                 }
             ]
         },
         {
             "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 9
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 11
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 9
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 11
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 9
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 11
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 9
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 11
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 9
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 11
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 9
-                },
                 {
                     "Type": "wall",
                     "Count": 2
                 },
                 {
                     "Type": "floor",
+                    "Count": 5
+                },
+                {
+                    "Type": "wall",
                     "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 3
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 1
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
                 },
                 {
                     "Type": "wall",
                     "Count": 3
                 },
                 {
-                    "Type": "stone",
-                    "Count": 11
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 10
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 7
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
                     "Type": "floor",
                     "Count": 7
                 },
@@ -714,415 +2336,23 @@
                 },
                 {
                     "Type": "stone",
-                    "Count": 13
+                    "Count": 12
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
                 }
             ]
         },
         {
             "Row": [
                 {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
                     "Type": "wall",
-                    "Count": 1
+                    "Count": 2
                 },
                 {
                     "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 7
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 7
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 7
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 7
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 7
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 7
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 7
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 7
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 7
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 21
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 4
-                },
-                {
-                    "Type": "wall",
-                    "Count": 7
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 17
+                    "Count": 5
                 },
                 {
                     "Type": "wall",
@@ -1130,407 +2360,111 @@
                 },
                 {
                     "Type": "floor",
-                    "Count": 1
+                    "Count": 25
                 },
                 {
                     "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 12
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "wall",
+                    "Count": 2
+                },
+                {
+                    "Type": "floor",
+                    "Count": 35
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 12
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "wall",
+                    "Count": 2
+                },
+                {
+                    "Type": "floor",
+                    "Count": 5
+                },
+                {
+                    "Type": "wall",
+                    "Count": 5
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 13
+                },
+                {
+                    "Type": "floor",
+                    "Count": 6
+                },
+                {
+                    "Type": "wall",
+                    "Count": 1
+                },
+                {
+                    "Type": "stone",
+                    "Count": 12
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
+                }
+            ]
+        },
+        {
+            "Row": [
+                {
+                    "Type": "wall",
+                    "Count": 8
+                },
+                {
+                    "Type": "stone",
                     "Count": 3
                 },
                 {
-                    "Type": "stone",
-                    "Count": 8
-                },
-                {
                     "Type": "wall",
                     "Count": 1
                 },
                 {
                     "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 17
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 7
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 8
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 17
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 7
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 8
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 17
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 7
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 8
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 17
-                },
-                {
-                    "Type": "wall",
-                    "Count": 9
-                },
-                {
-                    "Type": "stone",
-                    "Count": 8
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "stone",
-                    "Count": 13
-                }
-            ]
-        },
-        {
-            "Row": [
-                {
-                    "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 1
-                },
-                {
-                    "Type": "wall",
                     "Count": 6
                 },
                 {
-                    "Type": "stone",
-                    "Count": 8
-                }
-            ]
-        },
-        {
-            "Row": [
+                    "Type": "wall",
+                    "Count": 1
+                },
                 {
                     "Type": "stone",
-                    "Count": 34
+                    "Count": 11
                 },
                 {
                     "Type": "wall",
@@ -1546,7 +2480,11 @@
                 },
                 {
                     "Type": "stone",
-                    "Count": 8
+                    "Count": 12
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
                 }
             ]
         },
@@ -1554,7 +2492,7 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 34
+                    "Count": 11
                 },
                 {
                     "Type": "wall",
@@ -1570,7 +2508,19 @@
                 },
                 {
                     "Type": "stone",
+                    "Count": 11
+                },
+                {
+                    "Type": "wall",
                     "Count": 8
+                },
+                {
+                    "Type": "stone",
+                    "Count": 12
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
                 }
             ]
         },
@@ -1578,23 +2528,19 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 34
+                    "Count": 11
                 },
                 {
                     "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 6
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
+                    "Count": 8
                 },
                 {
                     "Type": "stone",
-                    "Count": 8
+                    "Count": 31
+                },
+                {
+                    "Type": "stone",
+                    "Count": 1
                 }
             ]
         },
@@ -1602,23 +2548,11 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 6
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
+                    "Count": 50
                 },
                 {
                     "Type": "stone",
-                    "Count": 8
+                    "Count": 1
                 }
             ]
         },
@@ -1626,23 +2560,11 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 6
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
+                    "Count": 50
                 },
                 {
                     "Type": "stone",
-                    "Count": 8
+                    "Count": 1
                 }
             ]
         },
@@ -1650,23 +2572,11 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
-                },
-                {
-                    "Type": "floor",
-                    "Count": 6
-                },
-                {
-                    "Type": "wall",
-                    "Count": 1
+                    "Count": 50
                 },
                 {
                     "Type": "stone",
-                    "Count": 8
+                    "Count": 1
                 }
             ]
         },
@@ -1674,15 +2584,7 @@
             "Row": [
                 {
                     "Type": "stone",
-                    "Count": 34
-                },
-                {
-                    "Type": "wall",
-                    "Count": 8
-                },
-                {
-                    "Type": "stone",
-                    "Count": 8
+                    "Count": 50
                 }
             ]
         }
